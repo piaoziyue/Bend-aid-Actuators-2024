@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "*.tex": "latex",
+        "limits": "cpp",
+        "ratio": "cpp",
+        "algorithm": "cpp",
+        "__bit_reference": "cpp",
+        "__hash_table": "cpp",
+        "__mutex_base": "cpp",
+        "bitset": "cpp",
+        "charconv": "cpp",
+        "chrono": "cpp",
+        "istream": "cpp",
+        "list": "cpp",
+        "locale": "cpp",
+        "streambuf": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "vector": "cpp",
+        "complex": "cpp"
+    }
+}
