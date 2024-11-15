@@ -61,6 +61,5 @@ ziyue.piao@mail.mcgill.ca
 Nov. 12, 2024
 
 
-## Copyright 
-© 2024 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/)
-
+## License 
+© 2024 by the authors. This code is licensed under the GNU General Public License (GPL). For details, please refer to the full license text in the LICENSE file included in this repository.
