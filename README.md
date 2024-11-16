@@ -1,10 +1,10 @@
 # Bend-aid Overview
 
-[![arXiv](https://img.shields.io/badge/Actuators-Paper-blue)](https://doi.org/10.3390/act1010000)
+[![arXiv](https://img.shields.io/badge/Actuators-Paper-blue)](https://www.mdpi.com/2076-0825/13/11/462)
 
 The Bend-aid visual interface developed for using with [**TorqueTuner**](https://www.idmil.org/project/the-torquetuner-hub/) is affiliated with the latest journal article published in Actuators titled: Assessing the Impact of Force Feedback in Musical Knobs on Performance and User Experience.
 
-Piao, Z.; Frisson, C.; Van Kerrebroeck, B.; Wanderley, M.M. Assessing the Impact of Force Feedback in Musical Knobs on Performance and User Experience. *Actuators* 2024, 1, 0. [https://doi.org/10.3390/act1010000](https://doi.org/10.3390/act1010000)
+Piao, Z.; Frisson, C.; Van Kerrebroeck, B.; Wanderley, M.M. Assessing the Impact of Force Feedback in Musical Knobs on Performance and User Experience. *Actuators* 2024, 1, 0. [https://www.mdpi.com/2076-0825/13/11/462](https://www.mdpi.com/2076-0825/13/11/462)
 
 ![Bend-aid UI Interface](https://github.com/piaoziyue/Bend-aid-Actuators-2024/blob/main/Bend-aid-ui.png)
 ## Key functions
@@ -46,10 +46,9 @@ To set up the software environment, follow these steps:
   title     = {Assessing the Impact of Force Feedback in Musical Knobs on Performance and User Experience},
   journal   = {Actuators},
   year      = {2024},
-  volume    = {1},
-  pages     = {0},
-  doi       = {10.3390/act1010000},
-  url       = {https://doi.org/10.3390/act1010000}
+  volume    = {13},
+  doi       = {10.3390/act13110462},
+  url       = {https://www.mdpi.com/2076-0825/13/11/462}
 }
 ```
 
